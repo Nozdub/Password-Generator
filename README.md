@@ -10,7 +10,7 @@
 
 
 ## **How to Use the Project**
-  The project should run easily enough, either through the console or through the future GUI.
+  The project consists of two python files, one that runs in your IDEs terminal the other file runs through TKinter.
 
 ## **Future development**
   I would like to add some way to integrate a function to where it either adds it to a dictionary of accounts, then exports it to a text file that again can be used
