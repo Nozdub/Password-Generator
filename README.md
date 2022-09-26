@@ -16,3 +16,5 @@
   I would like to add some way to integrate a function to where it either adds it to a dictionary of accounts, then exports it to a text file that again can be used
   in a password authenticator app.
 
+## **Dependencies**
+  You might need to install Pillow through pip to run the script in addition to adding tkinter and PyPDF2.
